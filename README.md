@@ -1,6 +1,6 @@
 ## Kind cluster automatic setup
 
-test test
+another test test
 
 This repo contains scripts to set up baseline kind (Kubernetes IN Docker) cluster with some default features:
 - dev, test, prod, maintenance namespaces,
